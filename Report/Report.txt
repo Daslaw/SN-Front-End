@@ -1,0 +1,19 @@
+Task 1
+1. Login to my Github Account.
+2. Creation of new repo for my first assignment named SN-Front-End.
+Problem.
+No serious problem was encounter during the process.
+
+Task 2
+1. Creation of new folder named First Assignment.
+2. Cloning of my repository to the created folder using Git bash.
+Problem
+My process worked with main not master.
+solution
+using of main when pushing my folder.
+
+Task 3  
+1. Creation and pushing of empty folder to my Github Repository.
+2. Checking of Repository status.
+Problem
+Authentication
